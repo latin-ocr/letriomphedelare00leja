@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./letriomphedelare00leja_0113.png"; bbox 0 0 1635 2874; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 411 52 1400 198">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 411 52 1400 198">
+     <span class='ocr_line' id='line_1_1' title="bbox 411 52 1400 198; baseline -0.035 -23"><span class='ocrx_word' id='word_1_1' title='bbox 411 80 515 174; x_wconf 65' lang='lat' dir='ltr'>vde</span> <span class='ocrx_word' id='word_1_2' title='bbox 543 74 630 168; x_wconf 71' lang='lat' dir='ltr'>la</span> <span class='ocrx_word' id='word_1_3' title='bbox 650 68 1055 198; x_wconf 46' lang='lat' dir='ltr'>Religio&amp;</span> <span class='ocrx_word' id='word_1_4' title='bbox 1261 52 1400 168; x_wconf 47' lang='lat'>&#39;105</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 167 261 1282 512">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 167 261 1282 512">
+     <span class='ocr_line' id='line_1_2' title="bbox 167 261 1282 389; baseline -0.087 2"><span class='ocrx_word' id='word_1_5' title='bbox 167 299 598 389; x_wconf 45' lang='lat' dir='ltr'><strong>‘NODUS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 706 292 772 361; x_wconf 80' lang='lat' dir='ltr'>G</span> <span class='ocrx_word' id='word_1_7' title='bbox 806 261 1069 358; x_wconf 66' lang='lat' dir='ltr'>ORD</span> <span class='ocrx_word' id='word_1_8' title='bbox 1102 277 1282 348; x_wconf 70' lang='lat' dir='ltr'>IUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 256 376 1144 512; baseline -0.078 -9"><span class='ocrx_word' id='word_1_9' title='bbox 256 507 268 512; x_wconf 9' lang='grc' dir='ltr'>Ἴ,</span> <span class='ocrx_word' id='word_1_10' title='bbox 305 388 671 512; x_wconf 21' lang='lat' dir='ltr'>&amp;Ale-Xandss</span> <span class='ocrx_word' id='word_1_11' title='bbox 694 404 880 465; x_wconf 61' lang='lat' dir='ltr'>manu</span> <span class='ocrx_word' id='word_1_12' title='bbox 897 376 1144 453; x_wconf 83' lang='lat' dir='ltr'><strong>solutus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 93 518 1569 2342">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 93 518 1569 2342">
+     <span class='ocr_line' id='line_1_4' title="bbox 93 518 1569 2342; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 93 518 1569 2342; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

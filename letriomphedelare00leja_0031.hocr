@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./letriomphedelare00leja_0031.png"; bbox 0 0 1635 2874; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 395 103 1355 234">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 395 103 1355 234">
+     <span class='ocr_line' id='line_1_1' title="bbox 395 103 1355 234; baseline 0.002 -36"><span class='ocrx_word' id='word_1_1' title='bbox 395 108 496 208; x_wconf 68' lang='lat' dir='ltr'>,de</span> <span class='ocrx_word' id='word_1_2' title='bbox 531 105 619 197; x_wconf 72' lang='lat' dir='ltr'>la</span> <span class='ocrx_word' id='word_1_3' title='bbox 654 103 1061 234; x_wconf 72' lang='lat' dir='ltr'><em>Religion.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1270 112 1355 219; x_wconf 65' lang='lat'>23‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 45 309 1365 653">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 45 309 1365 653">
+     <span class='ocr_line' id='line_1_2' title="bbox 45 309 1365 401; baseline -0.007 -7"><span class='ocrx_word' id='word_1_5' title='bbox 45 313 403 401; x_wconf 82' lang='lat' dir='ltr'><strong>MONS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 542 309 1365 395; x_wconf 80' lang='lat' dir='ltr'>ALTISSIMUS‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 162 427 1272 531; baseline -0.011 -24"><span class='ocrx_word' id='word_1_7' title='bbox 162 433 314 531; x_wconf 78' lang='lat' dir='ltr'>dum</span> <span class='ocrx_word' id='word_1_8' title='bbox 349 434 454 507; x_wconf 87' lang='lat' dir='ltr'>Sol</span> <span class='ocrx_word' id='word_1_9' title='bbox 493 429 574 498; x_wconf 80' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_10' title='bbox 602 428 937 508; x_wconf 64' lang='lat' dir='ltr'>Menidiem</span> <span class='ocrx_word' id='word_1_11' title='bbox 981 427 1219 498; x_wconf 68' lang='lat' dir='ltr'><strong>accedit</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1250 433 1272 516; x_wconf 77' lang='lat'>3</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 304 553 1084 653; baseline -0.014 -23"><span class='ocrx_word' id='word_1_13' title='bbox 304 573 496 630; x_wconf 77' lang='lat' dir='ltr'><strong>&#39;totus</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 525 578 708 653; x_wconf 79' lang='lat' dir='ltr'>poene</span> <span class='ocrx_word' id='word_1_15' title='bbox 758 553 1084 646; x_wconf 77' lang='lat' dir='ltr'>chlucems‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 5 673 1444 2453">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 5 673 1444 2453">
+     <span class='ocr_line' id='line_1_5' title="bbox 5 673 1444 2453; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 5 673 1444 2453; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

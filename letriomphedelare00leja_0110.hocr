@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./letriomphedelare00leja_0110.png"; bbox 0 0 1635 2874; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 173 63 1169 199">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 173 63 1169 199">
+     <span class='ocr_line' id='line_1_1' title="bbox 173 63 1169 199; baseline 0.004 -48"><span class='ocrx_word' id='word_1_1' title='bbox 173 98 315 153; x_wconf 87' lang='lat'><em>102</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 572 67 692 154; x_wconf 83' lang='lat' dir='ltr'><em>Le</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 714 63 1169 199; x_wconf 79' lang='lat' dir='ltr'><em>Triomphe</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 171 285 1511 1473">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 171 285 1511 1473">
+     <span class='ocr_line' id='line_1_2' title="bbox 171 285 1493 390; baseline 0.012 -16"><span class='ocrx_word' id='word_1_4' title='bbox 171 287 878 379; x_wconf 82' lang='lat' dir='ltr'><em>LvDOVJCO</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 929 285 1493 390; x_wconf 71' lang='lat' dir='ltr'><em>MAGNO,-</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 651 501 1020 598; baseline 0.003 -26"><span class='ocrx_word' id='word_1_6' title='bbox 651 501 1020 598; x_wconf 70' lang='lat' dir='ltr'><em>Qyon</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 446 674 1210 749; baseline 0.014 -11"><span class='ocrx_word' id='word_1_7' title='bbox 446 676 678 748; x_wconf 14' lang='lat' dir='ltr'><em>&lt;App</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 715 674 1210 749; x_wconf 80' lang='lat' dir='ltr'>LICTAM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 171 842 1511 935; baseline -0.009 -1"><span class='ocrx_word' id='word_1_9' title='bbox 171 850 870 935; x_wconf 70' lang='lat' dir='ltr'><strong>‚PRAETERITIS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 943 842 1511 926; x_wconf 72' lang='lat' dir='ltr'><em>eLAmBUs‘</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 555 1032 1136 1104; baseline -0.002 -1"><span class='ocrx_word' id='word_1_11' title='bbox 555 1032 1026 1104; x_wconf 64' lang='lat' dir='ltr'><em>HAERESI</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1061 1043 1136 1102; x_wconf 80' lang='lat' dir='ltr'><em>M</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 239 1215 1456 1288; baseline 0.002 -11"><span class='ocrx_word' id='word_1_13' title='bbox 239 1222 619 1288; x_wconf 63' lang='lat' dir='ltr'><em>‚5121ch</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 675 1215 1456 1283; x_wconf 77' lang='lat' dir='ltr'><em>NANNETENSIS</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 185 1392 1505 1473; baseline -0.002 -8"><span class='ocrx_word' id='word_1_15' title='bbox 185 1392 974 1473; x_wconf 53' lang='lat' dir='ltr'>ABR-omnem</span> <span class='ocrx_word' id='word_1_16' title='bbox 1021 1392 1505 1468; x_wconf 58' lang='lat' dir='ltr'>commm-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

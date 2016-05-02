@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./letriomphedelare00leja_0120.png"; bbox 0 0 1635 2874; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 186 91 1521 1496">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 186 91 1521 1496">
+     <span class='ocr_line' id='line_1_1' title="bbox 193 91 1127 229; baseline 0.004 -44"><span class='ocrx_word' id='word_1_1' title='bbox 193 120 315 186; x_wconf 63' lang='lat'>1⁴12</span> <span class='ocrx_word' id='word_1_2' title='bbox 544 91 1127 229; x_wconf 70' lang='lat' dir='ltr'><em>Le‘Triomphe</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 187 318 1521 446; baseline 0.003 -38"><span class='ocrx_word' id='word_1_3' title='bbox 187 319 921 412; x_wconf 71' lang='lat' dir='ltr'><em>LUDOVJCO</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 963 318 1521 446; x_wconf 63' lang='lat' dir='ltr'><em>MAGNQ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 667 535 1044 626; baseline 0.003 -24"><span class='ocrx_word' id='word_1_5' title='bbox 667 535 934 626; x_wconf 67' lang='lat' dir='ltr'>Quo</span> <span class='ocrx_word' id='word_1_6' title='bbox 974 537 1044 603; x_wconf 91' lang='lat' dir='ltr'>D</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 260 672 1439 787; baseline -0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 260 672 1439 787; x_wconf 69' lang='lat' dir='ltr'><strong>CONSTANTI&#39;PIETATIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 458 854 1405 952; baseline 0.001 -1"><span class='ocrx_word' id='word_1_8' title='bbox 458 879 1151 952; x_wconf 61' lang='lat' dir='ltr'>,EXEMPLO</span> <span class='ocrx_word' id='word_1_9' title='bbox 1354 854 1405 880; x_wconf 60' lang='lat'><em>⁴</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 450 1049 1249 1155; baseline 0.003 -32"><span class='ocrx_word' id='word_1_10' title='bbox 450 1068 503 1123; x_wconf 77' lang='lat' dir='ltr'><em>R</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 545 1049 689 1155; x_wconf 65' lang='grc' dir='ltr'>ΕΙ,</span> <span class='ocrx_word' id='word_1_12' title='bbox 736 1070 775 1126; x_wconf 83' lang='lat'><em>1</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 825 1068 876 1125; x_wconf 84' lang='lat' dir='ltr'><strong><em>G</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 921 1066 955 1125; x_wconf 84' lang='lat'><em>1</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 999 1074 1044 1127; x_wconf 87' lang='lat' dir='ltr'><em>o</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1091 1070 1163 1128; x_wconf 82' lang='lat' dir='ltr'><strong><em>N</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1213 1070 1249 1125; x_wconf 85' lang='lat'><em>1</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 186 1227 1505 1310; baseline 0.009 -12"><span class='ocrx_word' id='word_1_18' title='bbox 186 1227 681 1305; x_wconf 80' lang='lat' dir='ltr'>PoNDUs</span> <span class='ocrx_word' id='word_1_19' title='bbox 746 1237 891 1306; x_wconf 76' lang='lat' dir='ltr'>AG</span> <span class='ocrx_word' id='word_1_20' title='bbox 947 1238 1505 1310; x_wconf 78' lang='lat' dir='ltr'>PRETIUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 543 1416 1136 1496; baseline -0.005 -5"><span class='ocrx_word' id='word_1_21' title='bbox 543 1416 1136 1496; x_wconf 68' lang='lat' dir='ltr'>..ADDIDIT</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
