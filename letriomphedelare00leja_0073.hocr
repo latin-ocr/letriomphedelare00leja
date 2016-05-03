@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./letriomphedelare00leja/letriomphedelare00leja_0073.png"; bbox 0 0 1635 2874; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 424 84 1412 217">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 424 84 1412 217">
+     <span class='ocr_line' id='line_1_1' title="bbox 424 84 1412 217; baseline 0.003 -40"><span class='ocrx_word' id='word_1_1' title='bbox 424 84 523 177; x_wconf 72' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 542 87 630 178; x_wconf 71' lang='lat' dir='ltr'><strong>la</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 658 90 1055 217; x_wconf 62' lang='lat' dir='ltr'><em>Religion.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1320 107 1412 209; x_wconf 76' lang='lat'><strong>65</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 299 309 1234 508">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 299 309 1234 508">
+     <span class='ocr_line' id='line_1_2' title="bbox 475 309 1008 379; baseline 0.006 -4"><span class='ocrx_word' id='word_1_5' title='bbox 475 310 517 375; x_wconf 82' lang='lat' dir='ltr'><strong>S</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 545 313 605 377; x_wconf 89' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_7' title='bbox 633 311 698 379; x_wconf 87' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_8' title='bbox 729 309 788 377; x_wconf 92' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_9' title='bbox 811 313 870 377; x_wconf 91' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_10' title='bbox 894 311 948 375; x_wconf 92' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_11' title='bbox 975 310 1008 378; x_wconf 82' lang='lat'>1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 299 399 1234 508; baseline 0.005 -40"><span class='ocrx_word' id='word_1_12' title='bbox 299 399 360 468; x_wconf 79' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 406 400 661 472; x_wconf 74' lang='lat' dir='ltr'>alienam</span> <span class='ocrx_word' id='word_1_14' title='bbox 702 402 982 494; x_wconf 62' lang='lat' dir='ltr'>arborem</span> <span class='ocrx_word' id='word_1_15' title='bbox 1028 403 1234 508; x_wconf 43' lang='lat' dir='ltr'><strong>infici-5</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 50 532 1511 2341">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 50 532 1511 2341">
+     <span class='ocr_line' id='line_1_4' title="bbox 50 532 1511 2341; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 50 532 1511 2341; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
